@@ -12,3 +12,4 @@ updates hasta ahora:
 -update 1.1.4
 -update 1.1.5
 -update 1.2
+-comming soon..
